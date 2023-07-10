@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "leywVJj5ztZppsfW7cA7aoQ1XVAO0nFN7GD41l25NGz3ecstG5vJayjKPyhuxv/A4a6AbCvpmThA378QbmYZ4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cis\\Desktop\\TesteMatheus\\BlazorPlayground\\BlazorClassLibrary1\\BlazorClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cis\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0-rc.2.21480.10\\microsoft.aspnetcore.authorization.6.0.0-rc.2.21480.10.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.0-rc.2.21480.10\\microsoft.aspnetcore.components.6.0.0-rc.2.21480.10.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.0-rc.2.21480.10\\microsoft.aspnetcore.components.analyzers.6.0.0-rc.2.21480.10.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.0-rc.2.21480.10\\microsoft.aspnetcore.components.forms.6.0.0-rc.2.21480.10.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.0-rc.2.21480.10\\microsoft.aspnetcore.components.web.6.0.0-rc.2.21480.10.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.0-rc.2.21480.10\\microsoft.aspnetcore.metadata.6.0.0-rc.2.21480.10.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0-rc.2.21480.5\\microsoft.extensions.dependencyinjection.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0-rc.2.21480.5\\microsoft.extensions.dependencyinjection.abstractions.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0-rc.2.21480.5\\microsoft.extensions.logging.abstractions.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\microsoft.extensions.options\\6.0.0-rc.2.21480.5\\microsoft.extensions.options.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-rc.2.21480.5\\microsoft.extensions.primitives.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\microsoft.jsinterop\\6.0.0-rc.2.21480.10\\microsoft.jsinterop.6.0.0-rc.2.21480.10.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\system.io.pipelines\\6.0.0-rc.2.21480.5\\system.io.pipelines.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Cis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-rc.2.21480.5\\system.runtime.compilerservices.unsafe.6.0.0-rc.2.21480.5.nupkg.sha512"
+  ],
+  "logs": []
+}
